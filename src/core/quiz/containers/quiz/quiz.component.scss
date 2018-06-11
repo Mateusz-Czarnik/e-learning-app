@@ -1,0 +1,22 @@
+.quiz {
+  position: relative;
+  margin: 50px 0;
+  background: #fff;
+  box-shadow: 0 3px 4px rgba(0, 0, 0, 0.1);
+  border: 1px solid #c1cedb;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.message {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 30px;
+  font-size: 22px;
+  font-weight: 500;
+  img {
+    margin: 0 10px 0 0;
+  }
+}
